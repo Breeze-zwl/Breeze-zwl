@@ -22,6 +22,8 @@
 
 ## About me
 
+个人原因很多东西还没完善，今天开始会慢慢整理
+
 <img src='./images/codeing.gif' width='400' align='right'>
 
 - 💼丰富内心的地方：好未来、作业帮、国美
@@ -42,3 +44,4 @@
 
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" align='left'/>
 
+#### 谢谢你这么优秀还来看我。
