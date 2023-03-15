@@ -36,12 +36,20 @@
 - 🎉要有重来的勇气，一切慢慢来，以后会逐渐更新bolg等，
 - 💬微信：***\*13102202375\****，欢迎交流
 
+
+
+
+
 ## Github status
 
+<img height='140px' src='https://github-readme-stats.vercel.app/api?username=Sunny-117&hide_title=true&show_icons=true&theme=radical'	><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
 
+<!--username未换成W-xiaowei-->
+
+<img src='./assets/github-contribution-grid-snake.svg'>
 
 **### Visitor count**
 
-<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" align='left'/>
+<img src="https://profile-counter.glitch.me/W-xiaowei/count.svg" align='left'/>
 
 #### 谢谢你这么优秀还来看我。
