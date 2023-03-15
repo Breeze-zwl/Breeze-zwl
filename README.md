@@ -18,5 +18,12 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-[^徽标制作]: https://shields.io/
+- <a herf="https://shields.io/">徽标制作</a>
 
+## About me
+
+<img src='./images/codeing.gif' width='400' align='right'>
+
+**### Visitor count**
+
+<img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" align='left'/>
