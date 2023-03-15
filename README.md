@@ -18,12 +18,27 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-- <a herf="https://shields.io/">徽标制作</a>
+<a herf="https://shields.io/">徽标制作</a>
 
 ## About me
 
 <img src='./images/codeing.gif' width='400' align='right'>
 
+- 💼丰富内心的地方：好未来、作业帮、国美
+- 📝blog：https://w-xiaowei.github.io/web/
+- 📖github：https://github.com/W-xiaowei
+- 📑stackoverflow：Mb-Cback
+- 📎笔记面经：https://github.com/W-xiaowei/js-code
+- 😍爱好：篮球（打过半职业）、写歌（作词、作曲）
+- 🎉在京6年，没有记录习惯，选择了爱好，丢弃了生活，如今要选择生活了，
+- 🎉要有重来的勇气，一切慢慢来，以后会逐渐更新bolg等，
+- 💬微信：***\*13102202375\****，欢迎交流
+
+## Github status
+
+
+
 **### Visitor count**
 
 <img src="https://profile-counter.glitch.me/vanshkapoor/count.svg" align='left'/>
+
