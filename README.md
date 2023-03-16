@@ -18,7 +18,7 @@
   <img src="https://img.shields.io/badge/-ESLint-%234B32C3?style=flat-square&logo=eslint">
 </div>
 
-<a herf="https://shields.io/">徽标制作</a>
+<a href="https://shields.io/">徽标制作网站</a>
 
 ## About me
 
@@ -53,3 +53,4 @@
 <img src="https://profile-counter.glitch.me/W-xiaowei/count.svg" align='left'/>
 
 #### 谢谢你这么优秀还来看我。
+
