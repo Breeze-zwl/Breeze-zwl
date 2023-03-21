@@ -42,8 +42,9 @@
 
 ## Github status
 
-<img height='140px' src='https://github-readme-stats.vercel.app/api?username=Sunny-117&hide_title=true&show_icons=true&theme=radical'	><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" />
-
+<!-- <img height='140px' src='https://github-readme-stats.vercel.app/api?username=Sunny-117&hide_title=true&show_icons=true&theme=radical'	><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny-117&show_icons=true&theme=transparent&hide_title=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&layout=compact&hide_title=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <!--username未换成W-xiaowei-->
 
 <img src='./assets/github-contribution-grid-snake.svg'>
@@ -53,4 +54,5 @@
 <img src="https://profile-counter.glitch.me/W-xiaowei/count.svg" align='left'/>
 
 #### 谢谢你这么优秀还来看我。
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">送你好看的readme库</a>
 
