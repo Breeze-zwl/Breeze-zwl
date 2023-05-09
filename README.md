@@ -27,9 +27,9 @@
 <img src='./images/codeing.gif' width='400' align='right'>
 
 - 💼丰富内心的地方：好未来、作业帮、国美
+- 📑我自己的站点：https://zwl-turnback.cn/#/MainPages（无需梯子，有兴趣可以观摩观摩）
 - 📝blog：https://w-xiaowei.github.io/web/
 - 📖github：https://github.com/W-xiaowei
-- 📑stackoverflow：Mb-Cback
 - 📎笔记面经：https://github.com/W-xiaowei/js-code
 - 😍爱好：篮球（打过半职业）、写歌（作词、作曲）
 - 🎉在京6年，没有记录习惯，选择了爱好，丢弃了生活，如今要选择生活了，
