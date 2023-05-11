@@ -27,7 +27,7 @@
 <img src='./images/codeing.gif' width='400' align='right'>
 
 - 💼丰富内心的地方：好未来、作业帮、国美
-- 📑我自己的站点：https://zwl-turnback.cn/#/MainPages （无需梯子，有兴趣可以观摩观摩）
+- 📑我自己的站点：https://zwl-turnback.cn/#/MainPages （欢迎观摩）
 - 📝blog：https://w-xiaowei.github.io/web/
 - 📖github：https://github.com/W-xiaowei
 - 📎笔记面经：https://github.com/W-xiaowei/js-code
