@@ -27,7 +27,7 @@
 <img src='./images/codeing.gif' width='400' align='right'>
 
 - 💼丰富内心的地方：好未来、作业帮、国美
-- 📑我的站点：https://zwl-turnback.cn/#/MainPages （欢迎观摩）
+- 📑我自己的站点：https://zwl-turnback.cn/#/MainPages （无需梯子，有兴趣可以观摩观摩）
 - 📝blog：https://w-xiaowei.github.io/web/
 - 📖github：https://github.com/W-xiaowei
 - 📎笔记面经：https://github.com/W-xiaowei/js-code
@@ -51,7 +51,7 @@
 
 **### Visitor count**
 
-<img src="https://profile-counter.glitch.me/Sunny-117/count.svg" align='left'/>
+<img src="https://profile-counter.glitch.me/W-xiaowei/count.svg" align='left'/>
 
 #### 谢谢你这么优秀还来看我。
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">送你好看的readme库</a>
