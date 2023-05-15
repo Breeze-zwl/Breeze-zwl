@@ -47,7 +47,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&layout=compact&hide_title=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
 <!--username未换成W-xiaowei-->
 
-<img src='./assets/github-contribution-grid-snake.svg'>
+<!-- <img src='./assets/github-contribution-grid-snake.svg'> -->
+<img src="https://raw.githubusercontent.com/Sunny-117/Sunny-117/main/assets/github-user-contribution.svg">
 
 **### Visitor count**
 
