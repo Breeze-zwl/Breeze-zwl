@@ -27,7 +27,7 @@
 
 - 💼经历：好未来、作业帮、国美
 - 📑我的站点：https://zwl-turnback.cn/#/MainPages （欢迎观摩）
-- 📝blog：https://w-xiaowei.github.io/web/
+- 📝blog：https://Breeze-zwl.github.io/web/
 - 📖github：https://github.com/Breeze-zwl
 - 📎笔记面经：https://github.com/Breeze-zwl/js-code
 - 😍爱好：篮球（打过半职业）,灵魂骑手（🏍️：cbr400r）
