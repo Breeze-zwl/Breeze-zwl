@@ -31,7 +31,7 @@
 - 📝blog：https://w-xiaowei.github.io/web/
 - 📖github：https://github.com/W-xiaowei
 - 📎笔记面经：https://github.com/W-xiaowei/js-code
-- 😍爱好：篮球（打过半职业）、写歌（作词、作曲）
+- 😍爱好：篮球（打过半职业）,灵魂骑手（🏍️：cbr400r）
 - 🎉在京6年，专业玩梗两年半，生活中的段子手，
 - 🎉没更新就是在忙，不能一直保持绿
 - 💬微信：***\*13102202375\****，在看机会，欢迎捞我。
