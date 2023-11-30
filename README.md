@@ -22,7 +22,6 @@
 
 ## About me
 
-个人原因很多东西还没完善，今天开始会慢慢整理
 
 <img src='./images/codeing.gif' width='400' align='right'>
 
