@@ -51,7 +51,7 @@
 
 **### Visitor count**
 
-<img src="https://profile-counter.glitch.me/Breeze-zwl/count.svg" align='left'/>
+<img src="https://profile-counter.glitch.me/W-xiaowei/count.svg" align='left'/>
 
 #### 谢谢你这么优秀还来看我。
 <a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">送你好看的readme库</a>
