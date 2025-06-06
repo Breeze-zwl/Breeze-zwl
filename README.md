@@ -30,6 +30,7 @@
 - 📝blog：https://Breeze-zwl.github.io/web/
 - 📖github：https://github.com/Breeze-zwl
 - 📎笔记面经：https://github.com/Breeze-zwl/js-code
+- 📎稀土掘金：https://juejin.cn/user/870468941251703（NextJS专栏）
 - 😍爱好：篮球（打过半职业）,灵魂骑手（🏍️：cbr400r）
 - 🎉在京6年，专业玩梗两年半，生活中的段子手，
 - 🎉没提交就是在忙，不能一直保持绿
