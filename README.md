@@ -32,7 +32,7 @@
 - 📎笔记面经：https://github.com/Breeze-zwl/js-code
 - 📎稀土掘金专栏：https://juejin.cn/user/870468941251703/columns
 - 😍爱好：篮球（打过半职业）,灵魂骑手（🏍️：cbr400r）
-- 🎉在京6年，专业玩梗两年半，生活中的段子手，
+- 🎉在京8年，专业玩梗两年半，生活中的段子手，
 - 🎉没提交就是在忙，不能一直保持绿
 - 💬微信：***\*13102202375\****，欢迎捞我。
 
@@ -40,15 +40,7 @@
 
 
 
-## Github status
 
-<!-- <img height='140px' src='https://github-readme-stats.vercel.app/api?username=Sunny-117&hide_title=true&show_icons=true&theme=radical'	><img align="" height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&hide_title=true&hide_border=true&layout=compact&bg_color=0,73FA79,73FDFF,D783FF&theme=graywhite&locale=cn" /> -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Sunny-117&show_icons=true&theme=transparent&hide_title=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sunny-117&layout=compact&hide_title=true&locale=cn)](https://github.com/anuraghazra/github-readme-stats)
-<!--username未换成W-xiaowei-->
-
-<img src='./assets/github-contribution-grid-snake.svg'>
-<!-- <img src="https://raw.githubusercontent.com/Sunny-117/Sunny-117/main/assets/github-user-contribution.svg"> -->
 
 **### Visitor count**
 
